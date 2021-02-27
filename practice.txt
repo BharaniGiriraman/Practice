@@ -1,2 +1,5 @@
 Hi, This is my first line in git
 adding feature
+This is my first line in git
+adding feature 1
+
