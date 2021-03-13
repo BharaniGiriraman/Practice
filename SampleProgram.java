@@ -27,7 +27,11 @@ public class SampleProgram {
 	
 	    int mul = num1 * num2;
 	    System.out.println("Multiplication of these numbers: "+mul);
+	subtract(num1,num2);
+   }	
+ static void subtract(int num1,int num2){
 	
-   }
-
+	    int sub = num1 - num2;
+	    System.out.println("Subtraction of these numbers: "+sub);
+    }
 }
